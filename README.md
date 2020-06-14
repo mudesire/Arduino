@@ -13,6 +13,6 @@
  3. ULTRASONIC Sensor (HC-SR04)
  
 ### Scripts
-arduino.py   read data from  HC-SR04
-plotDataRealtime.py  Plot data (ru separately)
+1. arduino.py   read data from  HC-SR04
+2. plotDataRealtime.py  Plot data (ru separately)
 
